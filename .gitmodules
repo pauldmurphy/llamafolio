@@ -1,0 +1,9 @@
+[submodule "llamafolio-labels"]
+	path = llamafolio-labels
+	url = https://github.com/pauldmurphy/llamafolio-labels.git
+[submodule "llamafolio-tokens"]
+	path = llamafolio-tokens
+	url = https://github.com/pauldmurphy/llamafolio-tokens.git
+[submodule "llamafolio-api"]
+	path = llamafolio-api
+	url = https://github.com/pauldmurphy/llamafolio-api.git
